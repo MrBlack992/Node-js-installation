@@ -1,0 +1,11 @@
+npm installation process
+first doenload node js and install it 
+then open cmd and type to node -v and npm -v to check there current versions
+then type out 
+npm install -g create-react-app 
+this will tell us whether our npm is installed or not 
+after that just type 
+create-react-app name_of_the_project
+then type
+cd name_of_the_project
+and then npm start
